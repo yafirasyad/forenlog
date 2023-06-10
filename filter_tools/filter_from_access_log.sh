@@ -73,7 +73,7 @@ while read line; do
             payload="-"
           fi
               
-      # Menambahkan informasi lokasi beserta tanggal dan waktu ke dalam file attack_ips.log
+      # Menambahkan informasi lokasi beserta tanggal dan waktu ke dalam file attack_attempt_filtered.log
       echo "[XSS Attack Attempt] [$country] [$ip] [$datetime] [$ip_status] [$vpn_status] [$payload]" >> hasil_filter_from_access_log/attack_attempt_filtered.log
         fi
       fi
@@ -132,7 +132,7 @@ while read line; do
           else
             payload="-"
           fi
-      # Menambahkan informasi lokasi beserta tanggal dan waktu ke dalam file attack_ips.log
+      # Menambahkan informasi lokasi beserta tanggal dan waktu ke dalam file attack_attempt_filtered.log
       echo "[DDoS Attack Attempt] [$country] [$ip] [$datetime] [$ip_status] [$vpn_status] [$payload]" >> hasil_filter_from_access_log/attack_attempt_filtered.log
       fi
       fi
