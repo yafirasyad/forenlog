@@ -1,0 +1,8 @@
+Harap diperhatikan bahwa kode negara menggunakan 
+ISO 3166 Alpha-2 Code dapat diakses pada tautan berikut
+
+https://id.wikipedia.org/wiki/ISO_3166-1 
+
+atau
+
+https://www.iso.org/obp/ui/#search/code/

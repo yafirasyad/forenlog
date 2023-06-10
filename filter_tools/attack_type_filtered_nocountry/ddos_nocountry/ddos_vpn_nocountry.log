@@ -1,0 +1,6 @@
+[DDoS Attack Attempt] [NL] [164.90.204.15] [11/Apr/2023:20:57:45] [Abuser] [VPN] ["CONNECT www.yahoo.com:443 HTTP/1.1"]
+[DDoS Attack Attempt] [AU] [170.64.185.93] [11/Apr/2023:21:27:30] [Abuser] [VPN] ["GET /ab2g HTTP/1.1"]
+[DDoS Attack Attempt] [AU] [170.64.185.93] [11/Apr/2023:21:27:30] [Abuser] [VPN] ["GET /ab2h HTTP/1.1"]
+[DDoS Attack Attempt] [AU] [170.64.185.93] [11/Apr/2023:21:27:33] [Abuser] [VPN] ["GET / HTTP/1.1"]
+[DDoS Attack Attempt] [AU] [170.64.185.93] [11/Apr/2023:21:27:34] [Abuser] [VPN] ["GET /private/api/v1/service/premaster HTTP/1.1"]
+[DDoS Attack Attempt] [AU] [170.64.185.93] [11/Apr/2023:21:27:34] [Abuser] [VPN] ["GET /t4 HTTP/1.1"]
