@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Mengatur API key ipdata
-API_KEY="8d74d38f9f0b56d51bb1eb1a435f3a0839dd8b7c35e8f47b813fb59e"
+API_KEY=""
 
 # Membuat regex untuk XSS Attack Pattern dengan encoding
 XSS_REGEX='(<\s*(script|iframe|img|body|input|style|textarea|base|object|embed|form)[^<>]>|(%3C|<)[\s\/.?](s|S)(c|C)(r|R)(i|I)(p|P)(t|T|f|F|r|R|b|B|i|I|m|M|o|O|e|E)[\s\/.?](:|>|%3E)|javascript:|data:text\/html|vbscript:|on[a-z]+\s?=\s?["'"'"']?[^"'"'"'>]+|expression\s?\(\))'
