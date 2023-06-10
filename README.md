@@ -1,6 +1,6 @@
 _Bismillah_
 # Forenlog :mag: - Tools untuk filtering log serangan pada situs web 
-
+Program untuk filtering log setelah serangan yang terjadi pada situs web yang tersimpan pada acccess.log web server Nginx. Program dapat memfilter serangan *currently XSS dan DDoS menggunakan Regular Expression dan API dari ipdata.co untuk mendapatkan informasi IP.
 
 ```catatan:```<br>
 Sebelum menggunakan dapat dipahami bahwa file di atas masih terdapat hasil filter dan gambar hasil visualisasi, anda dapat menghapusnya karena file hasil filter tersebut hanyalah contoh. 
