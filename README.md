@@ -21,13 +21,15 @@ dan folder ```visualization_tools``` di dalamnya terdapat folder dan di dalam fo
 <br>
 
 ## Features :man_technologist:
-- Filtering log serangan XSS dan DDoS
-- Filtering sesuai kode negara yang akan dicari
+- Filtering log serangan XSS dan DDoS (pemberian tanda [XSS Attack Attempt] atau [DDoS Attack Attempt])
+- Pemberian informasi penggunaan VPN, status abusive IP dan kode negara
+- Filtering sesuai kode negara yang akan dicari 
 - Mengelompokkan sesuai penggunaan VPN dan negara
+
 #### Next Development: 
 - Menggunakan python untuk visualisasi perbandingan data pada log 
 - Menambahkan filter serangan lain mengacu pada OWASP TOP 10, 
-- lebih mudah digunakan dan hemat API request
+- lebih mudah digunakan dan hemat API request (karena saat ini terbatas hanya 1.500 request/day dari ipdata.co)
 
 <br>
 
