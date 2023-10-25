@@ -12,7 +12,7 @@ Seperti pada folder ```filter_tools``` terdapat folder:
 dan folder ```visualization_tools``` di dalamnya terdapat folder dan di dalam folder tersbut ada file dengan format ```.jpg``` anda dapat menghapusnya.
 
 ## Technologies :computer:
-### Languages 
+### Programming Languages 
 - Bash/Shell
 - Python
 ### 3rd Party
